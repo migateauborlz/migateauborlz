@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @migateauborlz
-- 👀 I’m interested in learning a lot and havng fun while doing it
-- 🌱 I’m currently learning HTML, Python and CSS
-- 💞️ I’m looking to collaborate on new projects to gain experience
+- 👀 I’m interested in learning a lot and having fun while doing it
+- 🌱 I’m currently learning HTML, Python, Java and CSS
+- 💞️ I’m looking forward to collaborate on new projects to acquire experience
 - 📫 mareinam@gmail.com
 
 <!---
