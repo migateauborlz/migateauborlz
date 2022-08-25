@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @migateauborlz
+- 👋 Hi, I’m Miguel Angel Reina
 - 👀 I’m interested in learning a lot and having fun while doing it
 - 🌱 I’m currently learning HTML, Python, Java and CSS
 - 💞️ I’m looking forward to collaborate on new projects to acquire experience
